@@ -1,0 +1,5 @@
+﻿  Fpscpp.cpp
+C:\Users\jprkr\Development\code\Fpscpp\Fpscpp\Fpscpp.cpp(20,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jprkr\Development\code\Fpscpp\Fpscpp\Fpscpp.cpp(127,44): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\jprkr\Development\code\Fpscpp\Fpscpp\Fpscpp.cpp(136,26): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Fpscpp.vcxproj -> C:\Users\jprkr\Development\code\Fpscpp\Debug\Fpscpp.exe
